@@ -72,7 +72,7 @@ _Proyecciones de crecimiento basadas en datos históricos_
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/social-media-dashboard.git
+git clone https://github.com/MichaelVairoDev/Social_Media_Dashboard.git
 cd social-media-dashboard
 ```
 
