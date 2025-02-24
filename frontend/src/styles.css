@@ -1,0 +1,94 @@
+/* Estilos globales */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.platform-icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.facebook-color {
+  color: #1877F2;
+}
+
+.twitter-color {
+  color: #1DA1F2;
+}
+
+.instagram-color {
+  color: #E4405F;
+}
+
+.linkedin-color {
+  color: #0A66C2;
+}
+
+.youtube-color {
+  color: #FF0000;
+}
+
+.tiktok-color {
+  color: #000000;
+}
+
+.pinterest-color {
+  color: #E60023;
+}
+
+.metric-value {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.metric-label {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.trend-up {
+  color: #28a745;
+}
+
+.trend-down {
+  color: #dc3545;
+}
+
+.chart-container {
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.dashboard-header {
+  margin-bottom: 30px;
+}
+
+.dashboard-title {
+  font-weight: 300;
+  color: #343a40;
+}
+
+.btn-primary {
+  background-color: #6366F1;
+  border-color: #6366F1;
+}
+
+.btn-primary:hover {
+  background-color: #4F46E5;
+  border-color: #4F46E5;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+} 
